@@ -3,8 +3,11 @@
 ## Fonctions partie 1 :
 
 `size_t ft_strlen(const char *s)` -> Calcule la longueur d'une chaîne de caractères. <br>
+
 `size_t ft_strlcat(char *dst, const char *src, size_t dstsize)` -> Concatène deux chaînes de caractères en limitant la taille du résultat.<br>
+
 `size_t ft_strlcpy(char *dst, const char *src, size_t dstsize)` -> Copie une chaîne de caractères dans une autre en limitant la taille de destination.<br>
+
 `void ft_bzero(void *s, size_t n)` -> Remplit les premiers octets de la mémoire pointée par `s` avec l'octet nul (valeur 0). <br>
 `void *ft_memchr(const void *s, int c, size_t n)` -> Recherche une valeur dans une zone mémoire.<br>
 `void *ft_memcpy(void *dst, const void *src, size_t n)` -> Copie une zone mémoire source dans une zone mémoire destination. <br>
