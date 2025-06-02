@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/david.lefur/OneDrive%20-%20Heusser%20Water%20Solutions%20AG/Bureau/libft.png" width="80%"
+<img src="file:///C:/Users/david.lefur/OneDrive%20-%20Heusser%20Water%20Solutions%20AG/Bureau/libft.png" width="80%">
 </h1>
 
 # Fonctions
