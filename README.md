@@ -2,7 +2,7 @@
 
 ## Fonctions partie 1 :
 
-`size_t ft_strlen(const char *s)`                               -> Calcule la longueur d'une chaîne de caractères. <br>
+`size_t ft_strlen(const char *s)` -> Calcule la longueur d'une chaîne de caractères. <br>
 
 `size_t ft_strlcat(char *dst, const char *src, size_t dstsize)` -> Concatène deux chaînes de caractères en limitant la taille du résultat.<br>
 
