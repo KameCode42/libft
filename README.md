@@ -1,10 +1,8 @@
-<img width="720" height="450" alt="Image" src="https://github.com/user-attachments/assets/673f1324-b71d-43d5-a323-568440b92037" />
-
 # Fonctions
 
 ## Fonctions partie 1 :
 
-`size_t ft_strlen(const char *s)` -> Calcule la longueur d'une chaîne de caractères. <br>
+`size_t ft_strlen(const char *s)`                               -> Calcule la longueur d'une chaîne de caractères. <br>
 
 `size_t ft_strlcat(char *dst, const char *src, size_t dstsize)` -> Concatène deux chaînes de caractères en limitant la taille du résultat.<br>
 
